@@ -35,25 +35,25 @@ MasterToast.makeText(this,"Hello World !",FancyToast.LENGTH_LONG,FancyToast.DEFA
 To display a success Toast:
 
 ``` java
-MasterToast.makeText(this,"Hello World !",FancyToast.LENGTH_LONG,FancyToast.SUCCESS);
+MasterToast.makeText(this,"Hello World !",MasterToast.LENGTH_LONG,MasterToast.SUCCESS);
 ```
 To display an info Toast:
 
 ``` java
-MasterToast.makeText(this,"Hello World !",FancyToast.LENGTH_LONG,FancyToast.INFO);
+MasterToast.makeText(this,"Hello World !",MasterToast.LENGTH_LONG,MasterToast.INFO);
 ```
 To display a warning Toast:
 
 ``` java
-MasterToast.makeText(this,"Hello World !",FancyToast.LENGTH_LONG,FancyToast.WARNING);
+MasterToast.makeText(this,"Hello World !",MasterToast.LENGTH_LONG,MasterToast.WARNING);
 ```
 To display the error Toast:
 
 ``` java
-MasterToast.makeText(this,"Hello World !",FancyToast.LENGTH_LONG,FancyToast.ERROR);
+MasterToast.makeText(this,"Hello World !",MasterToast.LENGTH_LONG,MasterToast.ERROR);
 ```
 To display the confusing Toast:
 
 ``` java
-MasterToast.makeText(this,"Hello World !",FancyToast.LENGTH_LONG,FancyToast.CONFUSING);
+MasterToast.makeText(this,"Hello World !",MasterToast.LENGTH_LONG,MasterToast.CONFUSING);
 ```

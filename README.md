@@ -30,7 +30,7 @@ Each method always returns a `MasterToast` object, so you can customize the Toas
 To display an default Toast:
 
 ``` java
-MasterToast.makeText(this,"Hello World !",FancyToast.LENGTH_LONG,FancyToast.DEFAULT);
+MasterToast.makeText(this,"Hello World !",MasterToast.LENGTH_LONG,MasterToast.DEFAULT);
 ```
 To display a success Toast:
 

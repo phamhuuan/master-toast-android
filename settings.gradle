@@ -1,0 +1,6 @@
+include ':mastertoast-lib'
+include ':mastertoast-release'
+include ':mastertoast'
+include ':app'
+project(':mastertoast-lib').projectDir = new File(rootDir, 'mastertoast-release/')
+rootProject.name = "Android Toast"
